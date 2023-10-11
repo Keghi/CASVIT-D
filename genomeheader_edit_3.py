@@ -1,3 +1,6 @@
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
+
 # Open the *.fna file and manipulate the first word of lines that start with '>'
 with open(fna_file, 'r') as f_in, open(fna_file + ".modified", 'w') as f_out:
     for line in f_in:
