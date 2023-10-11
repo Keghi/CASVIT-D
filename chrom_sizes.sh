@@ -1,3 +1,6 @@
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
+
 #!/bin/bash
 
 # Set the path to the ucsc_tools directory
