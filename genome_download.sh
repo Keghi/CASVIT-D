@@ -1,4 +1,6 @@
 #!/bin/bash -P
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
 
 while IFS= read -r line; do
  spec_nm=$(echo $line | cut -d ' ' -f1)
