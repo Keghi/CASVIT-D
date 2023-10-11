@@ -1,3 +1,6 @@
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
+
 import json
 import os
 import sys
