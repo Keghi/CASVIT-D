@@ -1,3 +1,6 @@
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
+
 import re
 
 def replace_refseq_with_uscs(fasta_file, mapping_file):
