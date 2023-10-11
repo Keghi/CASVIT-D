@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
 # set the URL to the website
 url="http://hgdownload.soe.ucsc.edu/goldenPath/hg38/multiz470way/maf/"
 
