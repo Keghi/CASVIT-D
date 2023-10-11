@@ -1,3 +1,6 @@
+#Author: Keshav Hibare, PhD student, University of Limerick
+#Contact:  Keshav.hibare@gmail.com
+
 fna_file = 'GCF_002288905.1_ASM228890v2_genomic.fna'
 
 # Open the *.fna file and manipulate the first word of lines that start with '>'
